@@ -1,0 +1,320 @@
+[
+  {
+    "id": "nll_s06_000",
+    "headword": NaN,
+    "domains": [],
+    "entries": []
+  },
+  {
+    "id": "nll_s06_001",
+    "headword": "address",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "inscriptio cursualis",
+        "macronized": "inscriptiō cursuālis",
+        "grammar": "gen.: inscriptiōnis cursuālis",
+        "citation": "EGGER S.L. 75; EGGER L.D.I. 102",
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_002",
+    "headword": "box",
+    "domains": [
+      "mail",
+      "domestic"
+    ],
+    "entries": [
+      {
+        "latin": "loculus",
+        "macronized": "loculus",
+        "grammar": "-ī, m.",
+        "citation": NaN,
+        "notes": "one of set of compartments for receving mail"
+      },
+      {
+        "latin": "loculamentum",
+        "macronized": "loculamentum",
+        "grammar": "-ī, n.",
+        "citation": NaN,
+        "notes": NaN
+      },
+      {
+        "latin": "columbarium",
+        "macronized": "columbārium",
+        "grammar": "-ī, n.",
+        "citation": NaN,
+        "notes": "set of compartments or boxes"
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_003",
+    "headword": "courier, messenger",
+    "domains": [
+      "mail",
+      "transport"
+    ],
+    "entries": [
+      {
+        "latin": "cursor",
+        "macronized": "cursor",
+        "grammar": "-ōris, m.",
+        "citation": "NEP.; PLIN.; SUET.; 1652 TURS. 437",
+        "notes": NaN
+      },
+      {
+        "latin": "veredarius",
+        "macronized": "verēdārius",
+        "grammar": "-ī, m.",
+        "citation": "Vulg.; HIER.",
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_004",
+    "headword": "deliver (a letter)",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "(epistulam) perferre",
+        "macronized": "(epistulam) perferre",
+        "grammar": "(epistulam) , pertulī, perlātus ",
+        "citation": "EGGER L.D.I. 102",
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_005",
+    "headword": "envelope",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "involucrum",
+        "macronized": "involūcrum",
+        "grammar": "-ī, n.",
+        "citation": "EGGER L.D.I. 102",
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_006",
+    "headword": "forward (mail, a letter or message)",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "perferre",
+        "macronized": "perferre",
+        "grammar": ", pertulī, perlātus ",
+        "citation": "SEN. Ep. 3, 1: epistulas ad me perferendas tradidisti ... amico tuo, \"you gave your friend letters to forward to me\"",
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_007",
+    "headword": "mail (a letter), post (a letter)",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "(epistulam) mittere",
+        "macronized": "(epistulam) mittere",
+        "grammar": "(epistulam) , mīsī, missus",
+        "citation": "EGGER L.D.I. 102",
+        "notes": NaN
+      },
+      {
+        "latin": "(epistulam) cursui publico tradere",
+        "macronized": "(epistulam) cursuī pūblicō trādere",
+        "grammar": "(epistulam) [cursuī pūblicō] , trādidī, trāditus",
+        "citation": "EGGER L.D.I. 102",
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_008",
+    "headword": "mail box",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "cursus publici capsula",
+        "macronized": "cursūs pūblicī capsula",
+        "grammar": "gen.: [cursūs pūblicī] capsulae, f.",
+        "citation": "EGGER L.D.I. 102",
+        "notes": NaN
+      },
+      {
+        "latin": "arca cursualis",
+        "macronized": "arca cursuālis",
+        "grammar": "gen.: arcae, f., cursuālis",
+        "citation": NaN,
+        "notes": "v. capsa"
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_009",
+    "headword": "mail, post (subst.) ",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "cursus publicus",
+        "macronized": "cursus pūblicus",
+        "grammar": "gen.: cursūs pūblicī, m. ",
+        "citation": "Cod. Just. 12, 50; EGGER L.D.I. 102",
+        "notes": NaN
+      },
+      {
+        "latin": "curusalis",
+        "macronized": "curusālis ",
+        "grammar": ", -is, -e",
+        "citation": NaN,
+        "notes": "adj. "
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_010",
+    "headword": "mailman, mail carrier, postman, postal deliverer",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "tabellarius",
+        "macronized": "tabellārius",
+        "grammar": "-ī, m.",
+        "citation": "EGGER L.D.I. 102",
+        "notes": NaN
+      },
+      {
+        "latin": "veredarius",
+        "macronized": "verēdārius",
+        "grammar": "-ī, m.",
+        "citation": "SID. Vulg. ERASMUS Coll. 160",
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_011",
+    "headword": "mailman: courier",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "cursor",
+        "macronized": "cursor",
+        "grammar": "-ōris, m.",
+        "citation": "Nep. Milit. 4, 3: Cursorem eius generis qui hemerodromoe vocantur Lacedaemonem miserunt. Suet. Ner. 49, of the courier the senate sent to read Nero his death sentence. Mart. 3, 100: Cursorem sextâ tibi, Rufe, remisimus horâ, carmina quem madidum nostra tulisse reor.",
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_012",
+    "headword": "post office",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "cursus publici diribitorium",
+        "macronized": "cursūs pūblicī diribitorium",
+        "grammar": "gen.: [cursūs pūblicī] diribitoriī, n. ",
+        "citation": "EGGER S.L. 40; EGGER L.D.I. 102",
+        "notes": NaN
+      },
+      {
+        "latin": "diribitorium cursuale",
+        "macronized": "diribitorium cursuāle",
+        "grammar": "gen.: diribitoriī, n., cursuālis",
+        "citation": NaN,
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_013",
+    "headword": "post, mail",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "cursus publicus",
+        "macronized": "cursus pūblicus",
+        "grammar": "gen.: cursūs, m., pūblicī",
+        "citation": "EGGER S.L. 31",
+        "notes": "subst. "
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_014",
+    "headword": "postcard",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "chartula cursualis",
+        "macronized": "chartula cursuālis",
+        "grammar": "gen.: chartulae cursuālis",
+        "citation": "EGGER L.D.I. 102",
+        "notes": NaN
+      }
+    ]
+  },
+  {
+    "id": "nll_s06_015",
+    "headword": "stamp (postage)",
+    "domains": [
+      "mail"
+    ],
+    "entries": [
+      {
+        "latin": "pittacium cursuale",
+        "macronized": "pittacium cursuāle",
+        "grammar": "gen.: pittaciī, n., cursuālis",
+        "citation": "EGGER L.D.I. 102",
+        "notes": NaN
+      },
+      {
+        "latin": "pittacium vehiculare",
+        "macronized": "pittacium vehiculāre",
+        "grammar": "[pittacium] , -āre, -āvī, -ātus",
+        "citation": NaN,
+        "notes": "to stamp (v.) "
+      },
+      {
+        "latin": "epistulam pittacio vehiculari munire",
+        "macronized": "epistulam pittaciō vehiculārī mūnīre ",
+        "grammar": "[epistulam pittaciō vehiculārī] , -īvī, ītus",
+        "citation": "Bacci, OIE 329",
+        "notes": "to stamp (v.) "
+      }
+    ]
+  }
+]

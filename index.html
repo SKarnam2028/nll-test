@@ -28,9 +28,13 @@
       border: 1px solid #ccc;
     }
 
-    <input type="file" id="csvUpload" accept=".csv">
-<button onclick="uploadCSV()">Upload & Save</button>
-
+    #csvUpload, button {
+      margin-bottom: 20px;
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
 
     .entry {
       background-color: #fff;
@@ -56,18 +60,18 @@
       margin-bottom: 5px;
     }
 
- .citation {
-  font-size: 0.8rem;      
-  font-style: italic;
-  color: #333;
-  margin-bottom: 5px;
-}
+    .citation {
+      font-size: 0.8rem;      
+      font-style: italic;
+      color: #333;
+      margin-bottom: 5px;
+    }
 
-.notes {
-  font-size: 0.75rem;     
-  color: #666;             
-  margin-bottom: 10px;
-}
+    .notes {
+      font-size: 0.75rem;     
+      color: #666;             
+      margin-bottom: 10px;
+    }
 
     p {
       margin: 5px 0;
@@ -77,14 +81,20 @@
 <body>
   <h1>Neo-Latin Lexicon — Section 06</h1>
 
+  <!-- Search box -->
   <input type="text" id="search" placeholder="Search headwords, Latin, domains...">
 
+  <!-- CSV upload -->
+  <input type="file" id="csvUpload" accept=".csv">
+  <button onclick="uploadCSV()">Upload & Save</button>
+
+  <!-- Results -->
   <div id="results"></div>
 
   <!-- Fuse.js CDN -->
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
 
-  <!-- Your search script -->
+  <!-- Your script.js -->
   <script src="./script.js"></script>
 </body>
 </html>

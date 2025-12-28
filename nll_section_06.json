@@ -1,7 +1,7 @@
 [
   {
     "id": "nll_s06_000",
-    "headword": NaN,
+    "headword": null,
     "domains": [],
     "entries": []
   },
@@ -17,7 +17,7 @@
         "macronized": "inscriptiō cursuālis",
         "grammar": "gen.: inscriptiōnis cursuālis",
         "citation": "EGGER S.L. 75; EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       }
     ]
   },
@@ -33,21 +33,21 @@
         "latin": "loculus",
         "macronized": "loculus",
         "grammar": "-ī, m.",
-        "citation": NaN,
+        "citation": null,
         "notes": "one of set of compartments for receving mail"
       },
       {
         "latin": "loculamentum",
         "macronized": "loculamentum",
         "grammar": "-ī, n.",
-        "citation": NaN,
-        "notes": NaN
+        "citation": null,
+        "notes": null
       },
       {
         "latin": "columbarium",
         "macronized": "columbārium",
         "grammar": "-ī, n.",
-        "citation": NaN,
+        "citation": null,
         "notes": "set of compartments or boxes"
       }
     ]
@@ -65,14 +65,14 @@
         "macronized": "cursor",
         "grammar": "-ōris, m.",
         "citation": "NEP.; PLIN.; SUET.; 1652 TURS. 437",
-        "notes": NaN
+        "notes": null
       },
       {
         "latin": "veredarius",
         "macronized": "verēdārius",
         "grammar": "-ī, m.",
         "citation": "Vulg.; HIER.",
-        "notes": NaN
+        "notes": null
       }
     ]
   },
@@ -88,7 +88,7 @@
         "macronized": "(epistulam) perferre",
         "grammar": "(epistulam) , pertulī, perlātus ",
         "citation": "EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       }
     ]
   },
@@ -104,7 +104,7 @@
         "macronized": "involūcrum",
         "grammar": "-ī, n.",
         "citation": "EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       }
     ]
   },
@@ -120,7 +120,7 @@
         "macronized": "perferre",
         "grammar": ", pertulī, perlātus ",
         "citation": "SEN. Ep. 3, 1: epistulas ad me perferendas tradidisti ... amico tuo, \"you gave your friend letters to forward to me\"",
-        "notes": NaN
+        "notes": null
       }
     ]
   },
@@ -136,14 +136,14 @@
         "macronized": "(epistulam) mittere",
         "grammar": "(epistulam) , mīsī, missus",
         "citation": "EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       },
       {
         "latin": "(epistulam) cursui publico tradere",
         "macronized": "(epistulam) cursuī pūblicō trādere",
         "grammar": "(epistulam) [cursuī pūblicō] , trādidī, trāditus",
         "citation": "EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       }
     ]
   },
@@ -159,13 +159,13 @@
         "macronized": "cursūs pūblicī capsula",
         "grammar": "gen.: [cursūs pūblicī] capsulae, f.",
         "citation": "EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       },
       {
         "latin": "arca cursualis",
         "macronized": "arca cursuālis",
         "grammar": "gen.: arcae, f., cursuālis",
-        "citation": NaN,
+        "citation": null,
         "notes": "v. capsa"
       }
     ]
@@ -182,13 +182,13 @@
         "macronized": "cursus pūblicus",
         "grammar": "gen.: cursūs pūblicī, m. ",
         "citation": "Cod. Just. 12, 50; EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       },
       {
         "latin": "curusalis",
         "macronized": "curusālis ",
         "grammar": ", -is, -e",
-        "citation": NaN,
+        "citation": null,
         "notes": "adj. "
       }
     ]
@@ -205,14 +205,14 @@
         "macronized": "tabellārius",
         "grammar": "-ī, m.",
         "citation": "EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       },
       {
         "latin": "veredarius",
         "macronized": "verēdārius",
         "grammar": "-ī, m.",
         "citation": "SID. Vulg. ERASMUS Coll. 160",
-        "notes": NaN
+        "notes": null
       }
     ]
   },
@@ -228,7 +228,7 @@
         "macronized": "cursor",
         "grammar": "-ōris, m.",
         "citation": "Nep. Milit. 4, 3: Cursorem eius generis qui hemerodromoe vocantur Lacedaemonem miserunt. Suet. Ner. 49, of the courier the senate sent to read Nero his death sentence. Mart. 3, 100: Cursorem sextâ tibi, Rufe, remisimus horâ, carmina quem madidum nostra tulisse reor.",
-        "notes": NaN
+        "notes": null
       }
     ]
   },
@@ -244,14 +244,14 @@
         "macronized": "cursūs pūblicī diribitorium",
         "grammar": "gen.: [cursūs pūblicī] diribitoriī, n. ",
         "citation": "EGGER S.L. 40; EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       },
       {
         "latin": "diribitorium cursuale",
         "macronized": "diribitorium cursuāle",
         "grammar": "gen.: diribitoriī, n., cursuālis",
-        "citation": NaN,
-        "notes": NaN
+        "citation": null,
+        "notes": null
       }
     ]
   },
@@ -283,7 +283,7 @@
         "macronized": "chartula cursuālis",
         "grammar": "gen.: chartulae cursuālis",
         "citation": "EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       }
     ]
   },
@@ -299,13 +299,13 @@
         "macronized": "pittacium cursuāle",
         "grammar": "gen.: pittaciī, n., cursuālis",
         "citation": "EGGER L.D.I. 102",
-        "notes": NaN
+        "notes": null
       },
       {
         "latin": "pittacium vehiculare",
         "macronized": "pittacium vehiculāre",
         "grammar": "[pittacium] , -āre, -āvī, -ātus",
-        "citation": NaN,
+        "citation": null,
         "notes": "to stamp (v.) "
       },
       {

@@ -1,12 +1,12 @@
-// Ensure Fuse.js is loaded in your HTML before this script:
-// <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+// Ensure Fuse.js is loaded in your HTML before this script
+// <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
 // <script src="./script.js"></script>
 
 let fuse;
 let data = [];
 
 // Load the lexicon data
-fetch("./nll_section_06.json")  // Correct relative path
+fetch("./nll_section_06.json")
   .then(response => {
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
@@ -61,12 +61,14 @@ if (searchInput) {
       const entryDiv = document.createElement("div");
       entryDiv.className = "entry";
 
-      let latinHTML = "";
+      let entriesHTML = "";
       if (item.entries && item.entries.length > 0) {
         item.entries.forEach(e => {
-          latinHTML += `
+          entriesHTML += `
             <div class="latin">${e.macronized || e.latin}</div>
             <div class="grammar">${e.grammar || ""}</div>
+            <div class="citation">${e.citation || ""}</div>
+            <div class="notes">${e.notes || ""}</div>
           `;
         });
       }
@@ -74,7 +76,7 @@ if (searchInput) {
       entryDiv.innerHTML = `
         <h3>${item.headword}</h3>
         <p><strong>Domains:</strong> ${item.domains ? item.domains.join(", ") : ""}</p>
-        ${latinHTML}
+        ${entriesHTML}
       `;
 
       resultsDiv.appendChild(entryDiv);
@@ -83,4 +85,3 @@ if (searchInput) {
 } else {
   console.error("Search input element not found. Make sure your HTML has <input id='search'>");
 }
-

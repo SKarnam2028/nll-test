@@ -67,7 +67,7 @@ if (searchInput) {
           entriesHTML += `
             <div class="latin">${e.macronized || e.latin}</div>
             <div class="grammar">${e.grammar || ""}</div>
-            <div class="citation">${e.citation || ""}</div>
+            <div class="citation"><strong>Citation:</strong> ${e.citation || ""}</div>
             <div class="notes">${e.notes || ""}</div>
           `;
         });
@@ -85,3 +85,4 @@ if (searchInput) {
 } else {
   console.error("Search input element not found. Make sure your HTML has <input id='search'>");
 }
+

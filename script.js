@@ -97,7 +97,7 @@ async function uploadCSV() {
   const json = csvToJSON(text);
 
   // --- CONFIGURE THIS ---
-  const token = "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"; // replace with your token
+  const token = "YOUR_PERSONAL_ACCESS_TOKEN"; // replace with your token
   const repo = "skarnam2028/nll-test";
   const path = "nll_section_06.json";
   const api = `https://api.github.com/repos/${repo}/contents/${path}`;
@@ -106,8 +106,8 @@ async function uploadCSV() {
     // Get current file SHA
     const old = await fetch(api, { headers: { "Authorization": `token ${token}` } }).then(r => r.json());
 
-    // Convert JSON to Base64
-    const content = btoa(JSON.stringify(json, null, 2));
+    // Convert JSON to Base64 (UTF-8 safe)
+    const content = btoa(unescape(encodeURIComponent(JSON.stringify(json, null, 2))));
 
     // Commit the new file
     await fetch(api, {

@@ -97,7 +97,7 @@ async function uploadCSV() {
   const json = csvToJSON(text);
 
   // --- CONFIGURE THIS ---
-  const token = "YOUR_PERSONAL_ACCESS_TOKEN"; // replace with your token
+  const token = "YOUR_PERSONAL_ACCESS_TOKEN"; // replace with your GitHub token
   const repo = "skarnam2028/nll-test";
   const path = "nll_section_06.json";
   const api = `https://api.github.com/repos/${repo}/contents/${path}`;
